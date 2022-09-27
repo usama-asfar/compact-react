@@ -10,7 +10,10 @@
       "channel": "beta",
       "prerelease": "beta"
     },
-    "master"
+    {
+      "name": "master",
+      "channel": "latest"
+    }
   ],
   "plugins": [
     "@semantic-release/commit-analyzer",
