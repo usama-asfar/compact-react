@@ -1,0 +1,22 @@
+{
+  "name": "compact-react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usama-asfar/compact-react.git"
+  },
+  "author": "usama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usama-asfar/compact-react/issues"
+  },
+  "homepage": "https://github.com/usama-asfar/compact-react#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
+}
