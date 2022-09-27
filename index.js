@@ -2,6 +2,6 @@
  * compact
  * @returns {string}
  */
-export default function compact() {
+export default function compact(element, config) {
   return "compact";
 }
