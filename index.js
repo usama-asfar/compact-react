@@ -3,5 +3,7 @@
  * @returns {string}
  */
 export default function compact(element, config) {
-  return "compact";
+  const child = element.child;
+
+  return child;
 }
